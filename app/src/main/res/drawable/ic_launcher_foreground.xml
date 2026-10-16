@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:scaleX="0.68"
+        android:scaleY="0.68"
+        android:translateX="17.28"
+        android:translateY="17.28">
+        <!-- Graduation Cap Top Diamond -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M54,20L18,36L54,52L90,36Z" />
+        <!-- Graduation Cap Base/Skullcap -->
+        <path
+            android:fillColor="#E2E8F0"
+            android:pathData="M30,42.5V56C30,68 54,75 54,75C54,75 78,68 78,56V42.5L54,53.2Z" />
+        <!-- Tassel Cord and Knot -->
+        <path
+            android:fillColor="#FBBF24"
+            android:pathData="M54,34A3,3 0 1,0 54,40A3,3 0 1,0 54,34Z" />
+        <path
+            android:strokeColor="#FBBF24"
+            android:strokeWidth="2.5"
+            android:strokeLineCap="round"
+            android:pathData="M54,37C70,39 80,48 82,62" />
+        <path
+            android:fillColor="#F59E0B"
+            android:pathData="M80,62H84L85,73H79Z" />
+        <!-- Rising Analytics Indicator / Gold Stars -->
+        <path
+            android:fillColor="#38BDF8"
+            android:pathData="M34,84H42V94H34Z" />
+        <path
+            android:fillColor="#60A5FA"
+            android:pathData="M46,78H54V94H46Z" />
+        <path
+            android:fillColor="#818CF8"
+            android:pathData="M58,72H66V94H58Z" />
+        <path
+            android:fillColor="#FBBF24"
+            android:pathData="M70,64H78V94H70Z" />
+        <!-- Trend Arrow -->
+        <path
+            android:strokeColor="#FBBF24"
+            android:strokeWidth="2.5"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:pathData="M34,80L50,74L62,68L76,58" />
+        <path
+            android:fillColor="#FBBF24"
+            android:pathData="M74,54L80,57L77,63Z" />
+    </group>
+</vector>

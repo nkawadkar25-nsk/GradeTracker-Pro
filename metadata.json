@@ -1,0 +1,6 @@
+{
+  "name": "GradeTracker Pro",
+  "description": "Comprehensive academic tracking app for CGPA & SGPA calculation, target planning, attendance threshold alerts, syllabus progress, visual analytics, Gemini study advisor, and PDF performance exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
